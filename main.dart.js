@@ -87084,7 +87084,7 @@ A.GF.prototype={
 a6(){return new A.a5k(B.m)}}
 A.a5k.prototype={
 B(a,b){var s=null
-return new A.GG(5,B.i,new A.u1(s),200,B.d,A.it("assets/images/logo_verde.png",s,s,s),s)}}
+return new A.GG(5,B.i,new A.u1(s),150,B.d,A.it("assets/images/logo_verde.png",s,s,s),s)}}
 A.AG.prototype={
 B(a,b){var s,r=null,q=this.c,p=$.q,o=t.M
 if(q){p.toString
